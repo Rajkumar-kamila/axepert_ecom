@@ -1456,8 +1456,8 @@ STRUCTURE
 	[8]		BLOCK BREADCRUMB
 	[9]		BLOCK LATEST PRODUCT
 */
-.module {
-  margin-bottom: 30px; }
+
+  /* margin-bottom: 30px; } */
   .module h3.modtitle {
     margin: 0  0 15px;
     text-transform: capitalize;
@@ -4249,7 +4249,7 @@ body {
     margin: 0; }
 
 .module h3.modtitle {
-  color: #333333;
+  color: white;
   font-size: 22px;
   line-height: 45px; }
 
@@ -4655,3 +4655,15 @@ div.tab-slider {
         right: 0px; }
   div.tab-slider .ltabs-items {
     direction: ltr; }
+.footer-info{
+  /* margin-top: 20px; */
+}
+.list-inline h5{
+  line-height: 20px;
+}
+h3.tittle{
+  text-align: center;
+}
+.footer-detail{
+  margin-top: 50px;
+}
