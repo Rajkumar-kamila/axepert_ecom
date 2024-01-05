@@ -1843,19 +1843,19 @@ STRUCTURE
 }
 
 @media (min-width: 1360px) {
-  /* .container-full {
+  .container-full {
     clear: both;
     margin-left: -10%;
     margin-right: -10%;
-  } */
+  }
 }
 
 @media (min-width: 1600px) {
-  /* .container-full {
+  .container-full {
     clear: both;
     margin-left: -40%;
     margin-right: -40%;
-  } */
+  }
 }
 
 /**************************************************************
